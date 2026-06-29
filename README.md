@@ -41,6 +41,7 @@ See [Contribution Guidelines](#contribution-guidelines)
 * [StyleBI](https://github.com/inetsoft-technology/stylebi) - App for dashboards and analytics with data pipeline for transformation and mashup.
 * [Shaper](https://taleshape.com/shaper/docs/) - Open-Source SQL-First, Data Dashboards and Embedded Analytics. Powered By DuckDB.
 * [DNA Claude Analysis](https://github.com/shmlkv/dna-claude-analysis) - A personal genome analysis toolkit that generates a single-page DNA Terminal dashboard with green-on-black terminal aesthetic.
+* [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Free open-source monitoring dashboard for OpenClaw AI agents — token usage, session tracking, 7-day trends, multi-model support.
 
 ## Graphite
 
